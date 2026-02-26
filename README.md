@@ -2,6 +2,8 @@
 
 A visual chatbot flow builder built with React, React Flow and TypeScript. Design conversational flows by dragging, dropping and connecting message nodes on an interactive canvas.
 
+**Live:** https://chatbot-flow-builder-murex-zeta.vercel.app/
+
 ## Getting Started
 
 ```bash
@@ -21,12 +23,3 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - Toast notifications for save feedback
 - Keyboard shortcuts (Delete/Backspace to remove nodes)
 - Extensible node type registry
-
-## Deployment
-
-```bash
-npm run build
-npm run preview
-```
-
-Deploy the `dist/` folder to Vercel, Netlify, or any static hosting.
